@@ -16,17 +16,21 @@
           <members>*</members>
           <name>Network</name>
       </types>
-    <types>
+          <types>
           <members>*</members>
-          <name>ProfilePasswordPolicy</name>
+          <name>CustomSite</name>
       </types>
-    <types>
+            <types>
           <members>*</members>
-          <name>ProfileSessionSetting</name>
+          <name>SiteDotCom</name>
       </types>
-    <types>
+            <types>
           <members>*</members>
-          <name>SharingRules</name>
+          <name>Profile</name>
+      </types>
+        <types>
+          <members>*</members>
+          <name>Role</name>
       </types>
       <version>63.0</version>
   </Package>

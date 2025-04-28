@@ -4,9 +4,9 @@
        "NavigationMenu",
        "NetworkBranding",
        "Network",
-       "ProfilePasswordPolicy",
-       "ProfileSessionSetting",
-       "SharingRules"
-
+       "CustomSite",
+       "SiteDotCom",
+       "Profile",
+       "Role"
     ]
 }
