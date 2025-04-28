@@ -23,8 +23,6 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>epic.64bf4bebfa1a@orgfarm.out</siteAdmin>
-    <siteGuestRecordDefaultOwner>epic.64bf4bebfa1a@orgfarm.out</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <urlPathPrefix>itsmportal</urlPathPrefix>
 </CustomSite>
