@@ -2,35 +2,7 @@
   <Package xmlns="http://soap.sforce.com/2006/04/metadata">
       <types>
           <members>*</members>
-          <name>Audience</name>
-      </types>
-    <types>
-          <members>*</members>
-          <name>NavigationMenu</name>
-      </types>
-    <types>
-          <members>*</members>
-          <name>NetworkBranding</name>
-      </types>
-    <types>
-          <members>*</members>
-          <name>Network</name>
-      </types>
-          <types>
-          <members>*</members>
-          <name>CustomSite</name>
-      </types>
-            <types>
-          <members>*</members>
-          <name>SiteDotCom</name>
-      </types>
-            <types>
-          <members>*</members>
-          <name>Profile</name>
-      </types>
-        <types>
-          <members>*</members>
-          <name>Role</name>
+          <name>Layout</name>
       </types>
       <version>63.0</version>
   </Package>
