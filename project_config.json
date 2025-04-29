@@ -1,12 +1,5 @@
 {
-    "metadata": [
-       "Audience",
-       "NavigationMenu",
-       "NetworkBranding",
-       "Network",
-       "CustomSite",
-       "SiteDotCom",
-       "Profile",
-       "Role"
+    "metadata":[
+        "Layout"
     ]
 }
