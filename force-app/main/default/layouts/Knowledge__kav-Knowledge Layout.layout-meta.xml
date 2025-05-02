@@ -28,7 +28,7 @@
                 <field>PublishStatus</field>
             </layoutItems>
             <layoutItems>
-                <field>Detail__c</field>
+                <field>Details__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
