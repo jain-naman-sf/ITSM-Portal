@@ -1,7 +1,6 @@
 {
     "metadata":[
-       "Profile",
-       "CustomField",
-       "Layout"
-    ]
+       "EntitlementProcess",
+       "MilestoneType"
+    ]  
 }
